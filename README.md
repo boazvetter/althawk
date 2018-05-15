@@ -28,4 +28,4 @@ Simply run Gatherer to start fetching data and saving this to a sqlite database.
 
 ## Authors
 
-* **Boaz Vetter** - *Founder* - [Althawk](https://github.com/x3r4)
+* **Boaz Vetter** - *Founder* - [x3r4](https://github.com/x3r4)
