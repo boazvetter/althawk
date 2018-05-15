@@ -15,6 +15,7 @@ Sqlite
 Pandas
 Datetime
 Requests
+Jupyter notebook
 ```
 
 ## Running the tests
