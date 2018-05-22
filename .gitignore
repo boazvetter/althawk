@@ -2,3 +2,5 @@ crypto.db
 myfrozenreqs.txt
 Temp scribbles.ipynb
 .ipynb_checkpoints/Temp scribbles-checkpoint.ipynb
+Worker.py
+cronlog.log
