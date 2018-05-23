@@ -20,7 +20,13 @@ Jupyter notebook
 
 ## Running the tests
 
-Simply run Gatherer to start fetching data and saving this to a sqlite database.
+- Simply run Gatherer.py to start fetching data and saving this to a sqlite database.
+- Run Worker.py to gather data
+
+## Continuity
+
+- Add #!/usr/bin/python3 to top of code & don't forget to chmod a+x Worker.py
+- Add this line to sudo crontab -e to run hourly: 5 */1 * * * cd /home/althawk/Althawk && ./Worker.py > /home/althawk/Althawk/cronlog.log 2>&1
 
 ## Built With
 
