@@ -29,9 +29,9 @@ Requests
 
 ## Built With
 
-* [Cryptocompare](https://min-api.cryptocompare.com/) - The API used to gather historical data
+* [Cryptocompare](https://min-api.cryptocompare.com/) - API used to gather historical price data
 * [Twitter](https://developer.twitter.com/en/docs) - Twitter API for scraping tweets
-* [Vader](https://github.com/cjhutto/vaderSentiment/) - SoTa lexical sentiment analysis tool
+* [Vader](https://github.com/cjhutto/vaderSentiment/) - Lexical sentiment analysis tool
 
 ## Authors
 
