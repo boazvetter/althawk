@@ -14,7 +14,7 @@ Python
 Sqlite
 Pandas
 Datetime
-Requests
+vaderSentiment
 ```
 
 ## Running the tests
