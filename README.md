@@ -7,7 +7,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What libraries, packages you need to have installed:
+Libraries, packages you need to have installed:
 
 ```
 Python
