@@ -11,10 +11,10 @@ Libraries, packages you need to have installed:
 
 ```
 Python
+  Pandas
+  Datetime
+  vaderSentiment
 Sqlite
-Pandas
-Datetime
-vaderSentiment
 ```
 
 ## Running the tests
@@ -35,4 +35,4 @@ vaderSentiment
 
 ## Authors
 
-* **Boaz Vetter** - *Founder* - [x3r4](https://github.com/x3r4)
+* **Boaz Vetter** - *Author* - [x3r4](https://github.com/x3r4)
