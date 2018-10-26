@@ -35,4 +35,4 @@ Sqlite
 
 ## Authors
 
-* **Boaz Vetter** - *Author* - [x3r4](https://github.com/x3r4)
+* **Boaz Vetter** - [x3r4](https://github.com/x3r4)
