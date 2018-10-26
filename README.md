@@ -1,5 +1,5 @@
 # Althawk
-Althawk is a social-minded cryptocurrency analysis project. First, both fundamental and technical data specific to certain 'alt' coins is harvested and stored in a database. Various natural language processing and machine learning techniques are then applied to the aggregated data to gather insights and/or predictions. The result will be deployed and presented to the end-user.
+Althawk is a sentiment-aware cryptocurrency social analysis project. First, both fundamental and technical data specific to certain 'alt' coins is harvested and stored in a database. Various natural language processing and machine learning techniques are then applied to the aggregated data to gather insights and/or predictions. The result will be deployed and presented to the end-user.
 
 ## Getting Started
 
