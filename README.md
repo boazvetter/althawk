@@ -33,6 +33,6 @@ Sqlite
 * [Twitter](https://developer.twitter.com/en/docs) - Twitter API for scraping tweets
 * [Vader](https://github.com/cjhutto/vaderSentiment/) - Lexical sentiment analysis tool
 
-## Authors
+## Author
 
-* **Boaz Vetter** - [x3r4](https://github.com/x3r4)
+* **Boaz Vetter**
